@@ -1,0 +1,1 @@
+docker build -t buala-bus-client-container .
